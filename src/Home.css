@@ -1,0 +1,57 @@
+.nav-item1{
+    color:white;
+}
+.lead{
+    text-align: center;
+    font-weight: 500;
+    color: rgb(43, 60, 107);
+}
+.display-4{
+    color: rgb(233, 97, 34);
+    font-weight: 500;
+    font-style: bold;
+}
+.container{
+ margin-left: 150px;
+}
+.imghm{
+  height: 120px;
+  width: 250px;
+ 
+}
+.logininhome{
+    background-color:  rgb(232, 140, 77);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+     margin-left: 200px;
+     margin-right: 200px;
+     height: 150px;
+     color: rgb(43, 60, 107);
+  
+}
+.log{
+    background-color: rgb(43, 60, 107);
+    color:white;
+    border-radius:5px;
+    border: 2px solid rgb(43, 60, 107);
+}
+#qqt{
+    margin-left: 950px;
+}
+.ppl1{
+    color:white;
+    float: right;
+    
+    }
+
+.card-img-top{
+width: 400px;
+height:250px;
+}
+.visit{
+    text-align: center;
+    color:  rgb(43, 60, 107);
+    font-style: bold;
+    margin-top:50px;
+}

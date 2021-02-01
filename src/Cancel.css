@@ -1,0 +1,31 @@
+#card3{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+    height: 380px;
+}
+
+.rm{
+    border:1px solid black;
+    float: right;
+    padding:20px;
+    border-radius: 4px;
+    width:225px;
+    height: 400px;
+    font-weight: 500;
+    margin:20px;
+}
+#cancelbox{
+
+ width: 400px;
+ }
+ 
+ #btncan{
+    margin-left: 100px;
+ }
+ .mnn1{
+    margin-left: 140px;
+    width: 70%;
+    text-align: center;
+    padding: 20px;
+  }

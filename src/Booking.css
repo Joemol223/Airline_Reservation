@@ -1,0 +1,139 @@
+.logo1{
+    width:150px;
+    height: 50px;
+  }
+  nav{
+    background-color: rgb(43, 60, 107);
+  } 
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(43, 60, 107);
+  }
+  
+  li {
+     border-right:1px solid rgb(207, 106, 12);
+    
+   }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(238, 238, 238);
+    color: rgb(207, 106, 12);
+  }
+  
+  li.nav-link{
+    float: right;
+  }
+
+  #card2{
+      margin-left: 500px;
+      margin-right: 400px;
+      padding: 30px;
+      height:270px;
+  }
+  #to1  {
+  
+    width: 200px;
+}
+
+.btn2{
+    margin-top: 15px;
+    margin-left: 90px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color:rgb(233, 97, 34); 
+    border: 2px solid rgb(233, 97, 34);
+   height:40px;
+}
+.btn2:hover{
+    background-color: rgb(37, 31, 124);
+    border: 2px solid rgb(37, 31, 124);
+    color:white;
+}
+
+.last{
+margin-left: 5px;
+}
+.first{
+  margin-right:50px;
+  margin-left:5px;
+  margin-bottom: 10px;
+
+}
+.age{
+  margin-right:50px;
+  margin-left: 55px;
+  margin-bottom: 20px;
+}
+.fll{
+  
+  margin-left:10px;
+}
+.bkt{
+  margin-left: 25px;
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+  
+   /* float: left;  */
+ /* margin-bottom: 300px; */
+}
+
+.tab1{
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top:20px;
+  margin-left:10px;
+  margin-right:550px;
+  height: 300px;
+   /* margin-bottom: 200px; */
+  padding:20px;
+}
+#bk{
+  margin-top:20px;
+  margin-left:20px;
+  margin-right:20px;
+  padding: 20px;
+  border:black 1px solid;
+  border-radius: 5 px;
+}
+#table{
+  border-right: black 1px solid;
+}
+
+#det{
+  font-weight: 500;
+}
+#spc{
+  margin-left: 40px;
+}
+#spce{
+  margin-left: 71px;
+}
+#spcee{margin-left: 90px;}
+#spceee{margin-left: 20px;}
+#spceel{margin-left: 15px;}
+#spceei{margin-left: 5px;}
+#spci{
+  margin-left: 72px;
+}
+
+
+

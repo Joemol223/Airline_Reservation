@@ -1,0 +1,31 @@
+.pay{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:40px;
+    padding:20px;
+}
+.btnp{
+    color:black;
+ border: 2px solid rgb(233, 97, 34);
+ background-color:rgb(233, 97, 34) ;
+ border-radius: 4px;
+     text-align: center;
+     margin-left:600px;
+
+}
+.btnp:hover{
+color:white;
+border-radius: 4px;
+ background-color:rgb(37, 31, 124) ;
+     border: 2px solid rgb(37, 31, 124);
+
+
+}
+
+#paymentbox{
+    background-color: white;
+    margin:0px;
+    border-color: white;
+    color: black;
+    padding: 0px;
+}
